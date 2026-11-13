@@ -205,4 +205,4 @@ This repository serves as the official landing page for Aegis. The software is d
 **Get the most recent version of Aegis today!**
 
 ---
-**Last updated:** 2026-11-12 18:45:57 UTC
+**Last updated:** 2026-11-13 00:00:27 UTC
